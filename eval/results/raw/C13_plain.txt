@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "195 r.w. Article 13 of India-US DTAA", "rate_pct": 10, "reasoning": "The engagement primarily comprises training of engineers (technical services) with handover of procedural manuals as an ancillary deliverable, constituting Fees for Technical Services under Article 13 of the India-US DTAA."}

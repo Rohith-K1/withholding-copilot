@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Section 9(1)(vi) of the Income-tax Act, 1961; Form 15CA/15CB", "rate_pct": 15, "reasoning": "The agreement grants a non-exclusive right to modify, incorporate, and distribute the software source code, which constitutes a copyright license taxable as royalty under Section 9(1)(vi) and Article 12 of the India-US DTAA."}

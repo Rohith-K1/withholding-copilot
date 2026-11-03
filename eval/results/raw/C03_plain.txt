@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Article 12 of India-US DTAA (Form 15CA/15CB)", "rate_pct": 15, "reasoning": "The agreement grants a non-exclusive right to use, modify and distribute software source code, which constitutes a copyright license taxable as royalty under Article 12 of the India-US DTAA."}

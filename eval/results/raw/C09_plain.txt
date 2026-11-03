@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Article 7 of India-Singapore DTAA read with Section 195 r.w.s. Section 90(2) ITA", "rate_pct": 0, "reasoning": "Services rendered entirely in Singapore by Singapore-resident personnel constitute business profits under Article 7 of the DTAA, not taxable in India without a permanent establishment."}

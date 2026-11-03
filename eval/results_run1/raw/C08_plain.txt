@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "Section 195 read with Article 13 of India-UK DTAA (Form 15CA/15CB)", "rate_pct": 10, "reasoning": "Preparation of structural engineering drawings and specifications for a single project constitutes technical consultancy services (FTS) under the India-UK DTAA, not royalty, as it involves project-specific deliverables without IP licensing."}

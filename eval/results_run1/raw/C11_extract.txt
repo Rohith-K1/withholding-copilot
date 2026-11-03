@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Contractor will second two engineers to Customer's plant in Chennai for nine months to supervise commissioning of the bottling line and train Customer's operators to run it independently."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "supervise commissioning of the bottling line and train Customer's operators to run it independently."
+  },
+  "Q5": {
+    "answer": "YES",
+    "quote": "train Customer's operators to run it independently."
+  },
+  "Q6": {
+    "answer": "NO",
+    "quote": "for nine months"
+  },
+  "Q7": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q8": {
+    "answer": "YES",
+    "quote": "Contractor will second two engineers to Customer's plant in Chennai"
+  }
+}

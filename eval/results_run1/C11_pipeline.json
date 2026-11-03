@@ -1,0 +1,53 @@
+{
+  "case_id": "C11",
+  "generated_at": "2026-11-02T23:17:35.301942+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SERVICES",
+      "quote": "Contractor will second two engineers to Customer's plant in Chennai for nine months to supervise commissioning of the bottling line and train Customer's operators to run it independently."
+    },
+    "Q2": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q3": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q4": {
+      "answer": "YES",
+      "quote": "supervise commissioning of the bottling line and train Customer's operators to run it independently."
+    },
+    "Q5": {
+      "answer": "YES",
+      "quote": "train Customer's operators to run it independently."
+    },
+    "Q6": {
+      "answer": "NO",
+      "quote": "for nine months"
+    },
+    "Q7": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q8": {
+      "answer": "YES",
+      "quote": "Contractor will second two engineers to Customer's plant in Chennai"
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "DOM-TDS-2025"
+    ],
+    "flags": [],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "ABSTAIN",
+    "reason": "Possible permanent establishment in India (out of scope)"
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

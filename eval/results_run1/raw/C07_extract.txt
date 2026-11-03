@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes."
+  },
+  "Q5": {
+    "answer": "YES",
+    "quote": "After the programme, Customer will run the process on its own. No further support is included."
+  },
+  "Q6": {
+    "answer": "NO",
+    "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes. After the programme, Customer will run the process on its own. No further support is included."
+  },
+  "Q7": {
+    "answer": "YES",
+    "quote": "including written process recipes."
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

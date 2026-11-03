@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "Section 195 read with Section 115A and India-US DTAA Article 13", "rate_pct": 15, "reasoning": "The payment for training and managed platform operation/support constitutes fees for technical services under Section 9(1)(vii) and Article 13 of the India-US DTAA, attracting 15% withholding with TRC and Form 10F."}

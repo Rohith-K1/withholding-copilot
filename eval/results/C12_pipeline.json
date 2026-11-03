@@ -1,0 +1,62 @@
+{
+  "case_id": "C12",
+  "generated_at": "2026-11-03T00:56:14.787905+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SERVICES",
+      "quote": "The engagement is a single three-week workshop."
+    },
+    "Q2": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q3": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q4": {
+      "answer": "YES",
+      "quote": "Vendor will train Customer's quality team in its statistical process control method"
+    },
+    "Q5": {
+      "answer": "YES",
+      "quote": "after which Customer's team will apply the method on their own"
+    },
+    "Q6": {
+      "answer": "NO",
+      "quote": "The engagement is a single three-week workshop"
+    },
+    "Q7": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "SG-FTS",
+      "DOM-TDS-2025",
+      "DOM-RATE-2025"
+    ],
+    "flags": [
+      "No evidence either way on Indian presence: CA to confirm no PE",
+      "Surcharge and cess not computed: CA to add if domestic rate applies",
+      "TRC or Form 10F missing: treaty rate not available"
+    ],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "DRAFT",
+    "category": "FTS",
+    "reason": "Make-available test met",
+    "rate_pct": 20.0,
+    "tds_inr": 240000.0
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

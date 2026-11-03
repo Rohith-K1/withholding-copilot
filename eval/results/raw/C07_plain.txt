@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Section 115A and Article 12 of India-Singapore DTAA (Form 10F & TRC submitted)", "rate_pct": 10, "reasoning": "The payment is for transfer of proprietary process know-how and written recipes, which constitutes imparting of technical knowledge taxable as royalty under Section 9(1)(vi) and Article 12 of the DTAA."}

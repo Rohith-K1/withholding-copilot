@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+  },
+  "Q5": {
+    "answer": "NO",
+    "quote": "Consultant will not train Customer's staff"
+  },
+  "Q6": {
+    "answer": "NO",
+    "quote": "the drawings are for this single building only."
+  },
+  "Q7": {
+    "answer": "YES",
+    "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+  },
+  "Q8": {
+    "answer": "NO",
+    "quote": "All work will be done from Consultant's office in Bristol."
+  }
+}

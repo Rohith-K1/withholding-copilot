@@ -1,0 +1,57 @@
+{
+  "case_id": "C07",
+  "generated_at": "2026-11-02T23:13:45.342393+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "UNCLEAR",
+      "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes."
+    },
+    "Q2": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q3": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q4": {
+      "answer": "UNCLEAR",
+      "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes."
+    },
+    "Q5": {
+      "answer": "YES",
+      "quote": "After the programme, Customer will run the process on its own. No further support is included."
+    },
+    "Q6": {
+      "answer": "UNCLEAR",
+      "quote": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process enginee[AMOUNT] including written process recipes. After the programme, Customer will run the process on its own. No further support is included."
+    },
+    "Q7": {
+      "answer": "YES",
+      "quote": "including written process recipes."
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [
+    "Q1: quote not found verbatim in source -> UNCLEAR",
+    "Q4: quote not found verbatim in source -> UNCLEAR",
+    "Q6: quote not found verbatim in source -> UNCLEAR"
+  ],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "DOM-TDS-2025"
+    ],
+    "flags": [],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "ABSTAIN",
+    "reason": "Payment type not covered or unclear"
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "C14",
+  "generated_at": "2026-11-02T23:22:55.976894+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SERVICES",
+      "quote": "Agency will run digital marketing campaigns and manage social media advertising for Customer's brand from its London office, on a monthly retainer."
+    },
+    "Q2": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q3": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q4": {
+      "answer": "NO",
+      "quote": "run digital marketing campaigns and manage social media advertising"
+    },
+    "Q5": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q6": {
+      "answer": "YES",
+      "quote": "on a monthly retainer"
+    },
+    "Q7": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "UK-BP",
+      "DOM-TDS-2025"
+    ],
+    "flags": [
+      "No evidence either way on Indian presence: CA to confirm no PE",
+      "Not taxable in India only if vendor has no PE (assumed, CA to confirm)"
+    ],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "DRAFT",
+    "category": "BUSINESS_PROFITS",
+    "reason": "Treaty FTS covers only technical/consultancy services",
+    "rate_pct": 0.0,
+    "tds_inr": 0.0
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

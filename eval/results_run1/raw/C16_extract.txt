@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester."
+  },
+  "Q2": {
+    "answer": "NO",
+    "quote": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester."
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester."
+  },
+  "Q5": {
+    "answer": "NO",
+    "quote": "Provider will not provide training, documentation or know-how to Customer"
+  },
+  "Q6": {
+    "answer": "YES",
+    "quote": "Provider remains responsible for operating the system for the five-year term."
+  },
+  "Q7": {
+    "answer": "NO",
+    "quote": "no design work is included"
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

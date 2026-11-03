@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Section 195 read with Article 7 of India-UK DTAA; Form 15CA/15CB", "rate_pct": null, "reasoning": "The payment is for managed hosting services rendered from the UK without transfer of technical know-how or IP, constituting business profits not taxable in India in the absence of a permanent establishment."}

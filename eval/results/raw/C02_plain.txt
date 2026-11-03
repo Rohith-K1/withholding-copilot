@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Article 7 India-US DTAA (no PE); Form 15CA/15CB", "rate_pct": 0, "reasoning": "Perpetual end-user licence for off-the-shelf software without source code constitutes sale of copyrighted article (business profits) not royalty/FTS under India-US DTAA and Indian judicial precedents."}

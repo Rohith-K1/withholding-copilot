@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Vendor will train Customer's IT staff to administer the analytics platform themselves and will also continue to operate and support the platform for Customer under a three-year managed service."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Vendor will train Customer's IT staff to administer the analytics platform themselves and will also continue to operate and support the platform for Customer under a three-year managed service."
+  },
+  "Q5": {
+    "answer": "YES",
+    "quote": "Vendor will train Customer's IT staff to administer the analytics platform themselves"
+  },
+  "Q6": {
+    "answer": "YES",
+    "quote": "will also continue to operate and support the platform for Customer under a three-year managed service."
+  },
+  "Q7": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

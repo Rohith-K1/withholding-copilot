@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "Section 195 of the Income Tax Act, 1961 read with Article 12 of the India-US DTAA; Form 15CA/15CB", "rate_pct": 10, "reasoning": "Consulting services qualify as Fees for Technical Services under Article 12 of the India-US DTAA, allowing a reduced withholding tax rate of 10% with valid TRC and Form 10F."}

@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Article 7 of India-UK DTAA read with Section 195 (No withholding required)", "rate_pct": 0, "reasoning": "Routine IT helpdesk, monitoring and incident resolution performed entirely from the UK with no PE in India constitute business profits under Article 7 of the DTAA, not royalty or FTS, so no Indian withholding applies."}

@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Vendor will train Customer's maintenance engineers to calibrate and repair the XR-9 laser cutting line."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Vendor will train Customer's maintenance engineers to calibrate and repair the XR-9 laser cutting line."
+  },
+  "Q5": {
+    "answer": "YES",
+    "quote": "so that Customer's engineers can perform calibration independently without Vendor's involvement."
+  },
+  "Q6": {
+    "answer": "NO",
+    "quote": "This is a one-time engagement of six weeks."
+  },
+  "Q7": {
+    "answer": "YES",
+    "quote": "Vendor will hand over its full calibration procedures and diagnostic manuals"
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

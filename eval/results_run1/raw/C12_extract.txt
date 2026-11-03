@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "Vendor will train Customer's quality team in its statistical process control method and hand over the full method documentation, after which Customer's team will apply the method on their own. The engagement is a single three-week workshop."
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "YES",
+    "quote": "Vendor will train Customer's quality team in its statistical process control method"
+  },
+  "Q5": {
+    "answer": "YES",
+    "quote": "after which Customer's team will apply the method on their own."
+  },
+  "Q6": {
+    "answer": "NO",
+    "quote": "The engagement is a single three-week workshop."
+  },
+  "Q7": {
+    "answer": "YES",
+    "quote": "hand over the full method documentation"
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

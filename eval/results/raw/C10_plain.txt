@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "Section 195 read with Article 12 of India-US DTAA", "rate_pct": 10, "reasoning": "Consulting services qualify as fees for technical services under the India-US DTAA, subject to 10% withholding under Section 195."}

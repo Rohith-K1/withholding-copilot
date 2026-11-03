@@ -1,0 +1,60 @@
+{
+  "case_id": "C01",
+  "generated_at": "2026-11-02T23:09:15.273603+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SAAS",
+      "quote": "Annual subscription to the PipelineCloud CRM platform for 120 named users. The platform is hosted on the Vendor's servers in Singapore and accessed by Customer through a web browser."
+    },
+    "Q2": {
+      "answer": "NO",
+      "quote": "Customer receives no copy of the software"
+    },
+    "Q3": {
+      "answer": "NO",
+      "quote": "no source code and no right to copy, modify or distribute the platform"
+    },
+    "Q4": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q5": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q6": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q7": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q8": {
+      "answer": "NO",
+      "quote": "Vendor has no office or personnel in India."
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "P-SAAS",
+      "SG-BP",
+      "DOM-TDS-2025"
+    ],
+    "flags": [
+      "Not taxable in India only if vendor has no PE (assumed, CA to confirm)"
+    ],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "DRAFT",
+    "category": "BUSINESS_PROFITS",
+    "reason": "Remote SaaS access without IP rights is not royalty",
+    "rate_pct": 0.0,
+    "tds_inr": 0.0
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

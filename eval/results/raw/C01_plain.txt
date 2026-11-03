@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Article 7 of India-Singapore DTAA (no PE)", "rate_pct": 0, "reasoning": "Payment for SaaS access without transfer of software copy or IP rights constitutes business profits not taxable in India absent a permanent establishment."}

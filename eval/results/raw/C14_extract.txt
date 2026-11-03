@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "answer": "SERVICES",
+    "quote": "run digital marketing campaigns and manage social media advertising"
+  },
+  "Q2": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q3": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q4": {
+    "answer": "NO",
+    "quote": "run digital marketing campaigns and manage social media advertising"
+  },
+  "Q5": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q6": {
+    "answer": "YES",
+    "quote": "on a monthly retainer"
+  },
+  "Q7": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  },
+  "Q8": {
+    "answer": "NOT_MENTIONED",
+    "quote": ""
+  }
+}

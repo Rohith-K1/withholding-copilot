@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Section 115A (Royalty) / Article 12 of India-US DTAA", "rate_pct": 10, "reasoning": "The payment involves transfer of proprietary calibration procedures and diagnostic manuals constituting imparting of technical knowledge, taxable as royalty under Section 9(1)(vi) and India-US DTAA Article 12."}

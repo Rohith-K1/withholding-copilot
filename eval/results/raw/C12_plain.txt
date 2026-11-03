@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Section 115A; Form 15CA/15CB", "rate_pct": 10, "reasoning": "The payment involves imparting a proprietary statistical process control method and handing over full documentation, constituting transfer of technical knowledge/know-how taxable as royalty under Section 9(1)(vi)."}

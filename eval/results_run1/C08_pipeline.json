@@ -1,0 +1,54 @@
+{
+  "case_id": "C08",
+  "generated_at": "2026-11-02T23:14:18.206869+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SERVICES",
+      "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+    },
+    "Q2": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q3": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    },
+    "Q4": {
+      "answer": "YES",
+      "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+    },
+    "Q5": {
+      "answer": "NO",
+      "quote": "Consultant will not train Customer's staff"
+    },
+    "Q6": {
+      "answer": "NO",
+      "quote": "the drawings are for this single building only."
+    },
+    "Q7": {
+      "answer": "YES",
+      "quote": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse."
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "P-BURO-2023",
+      "DOM-TDS-2025"
+    ],
+    "flags": [],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "ABSTAIN",
+    "reason": "Design handed over without make-available: contested limb"
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

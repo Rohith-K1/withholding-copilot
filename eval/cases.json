@@ -1,0 +1,100 @@
+{
+  "_note": "ALL CASES ARE SYNTHETIC. Parties, texts and amounts are invented. Fact patterns are inspired by public orders named in 'inspired_by'. Gold labels are the author's reading under the rules in rules.py, not legal advice. gold_facts lists only the questions that decide the case; others default to NOT_MENTIONED.",
+  "cases": [
+    {"id": "C01", "payee_country": "SG", "payment_date": "2026-07-15", "amount_inr": 1800000, "trc": true, "form_10f": true,
+     "inspired_by": "Salesforce.com Singapore (ITAT Delhi; SC SLP dismissed)",
+     "text": "Order Form: Annual subscription to the PipelineCloud CRM platform for 120 named users. The platform is hosted on the Vendor's servers in Singapore and accessed by Customer through a web browser. Customer receives no copy of the software, no source code and no right to copy, modify or distribute the platform. Vendor has no office or personnel in India.",
+     "gold_facts": {"Q1": ["SAAS", "accessed by Customer through a web browser"], "Q3": ["NO", "no source code and no right to copy, modify or distribute the platform"], "Q8": ["NO", "Vendor has no office or personnel in India"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C02", "payee_country": "US", "payment_date": "2026-08-01", "amount_inr": 2500000, "trc": true, "form_10f": true,
+     "inspired_by": "Engineering Analysis v CIT (SC 2021)",
+     "text": "Invoice: 50 perpetual end-user licences of DraftPro CAD 2026, delivered as a download for installation on Customer's workstations. The licence permits use for Customer's internal business only; Customer may not copy, modify, reverse engineer, sublicense or distribute the software. Source code is not provided.",
+     "gold_facts": {"Q1": ["SOFTWARE", "perpetual end-user licences of DraftPro CAD 2026"], "Q3": ["NO", "Customer may not copy, modify, reverse engineer, sublicense or distribute the software"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C03", "payee_country": "US", "payment_date": "2026-08-20", "amount_inr": 4000000, "trc": true, "form_10f": true,
+     "inspired_by": "Treaty royalty definition (rights in copyright granted)",
+     "text": "Software Licence Agreement: Licensor grants Licensee a non-exclusive right to modify the RouteOpt engine, incorporate it into Licensee's own products and distribute those products to Licensee's customers. Licensor will deliver the complete source code within 10 days of signature.",
+     "gold_facts": {"Q1": ["SOFTWARE", "Software Licence Agreement"], "Q3": ["YES", "right to modify the RouteOpt engine"]},
+     "gold_category": "ROYALTY", "gold_rate_pct": 15},
+
+    {"id": "C04", "payee_country": "UK", "payment_date": "2026-09-05", "amount_inr": 3200000, "trc": true, "form_10f": true,
+     "inspired_by": "CPPGroup Services v ACIT (ITAT Delhi 2025)",
+     "text": "Services Agreement: Provider will continue to provide 24x7 IT helpdesk, server monitoring and incident resolution for Customer's systems on an ongoing monthly basis. All work is performed remotely by Provider's team in the United Kingdom, and Customer relies on Provider for these functions throughout the term. No training or transfer of know-how is included.",
+     "gold_facts": {"Q1": ["SERVICES", "IT helpdesk, server monitoring and incident resolution"], "Q4": ["YES", "IT helpdesk, server monitoring and incident resolution"], "Q5": ["NO", "No training or transfer of know-how is included"], "Q6": ["YES", "Customer relies on Provider for these functions throughout the term"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C05", "payee_country": "US", "payment_date": "2026-09-12", "amount_inr": 5500000, "trc": true, "form_10f": true,
+     "inspired_by": "Korn Ferry (US) v ACIT (ITAT Delhi)",
+     "text": "Engagement Letter: Consultant will assess Customer's executive compensation structure and deliver a recommendations report to the Board. Consultant's methodology, tools and models remain proprietary to Consultant and are not shared with Customer. The engagement ends on delivery of the report.",
+     "gold_facts": {"Q1": ["SERVICES", "Consultant will assess Customer's executive compensation structure"], "Q4": ["YES", "deliver a recommendations report to the Board"], "Q5": ["NO", "methodology, tools and models remain proprietary to Consultant and are not shared with Customer"], "Q6": ["NO", "The engagement ends on delivery of the report"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C06", "payee_country": "US", "payment_date": "2026-07-01", "amount_inr": 3000000, "trc": true, "form_10f": true,
+     "inspired_by": "Make-available test as described in India-US treaty case law",
+     "text": "Statement of Work: Vendor will train Customer's maintenance engineers to calibrate and repair the XR-9 laser cutting line. On completion, Vendor will hand over its full calibration procedures and diagnostic manuals so that Customer's engineers can perform calibration independently without Vendor's involvement. This is a one-time engagement of six weeks.",
+     "gold_facts": {"Q1": ["SERVICES", "Vendor will train Customer's maintenance engineers"], "Q4": ["YES", "calibrate and repair the XR-9 laser cutting line"], "Q5": ["YES", "Customer's engineers can perform calibration independently without Vendor's involvement"], "Q6": ["NO", "This is a one-time engagement of six weeks"]},
+     "gold_category": "FTS", "gold_rate_pct": 15, "gold_section_contains": "393"},
+
+    {"id": "C07", "payee_country": "SG", "payment_date": "2026-10-03", "amount_inr": 2200000, "trc": true, "form_10f": true,
+     "inspired_by": "India-Singapore Art.12(4)(b) make-available cases",
+     "text": "Vendor will conduct a four-week programme to transfer its proprietary process know-how for wafer cleaning to Customer's process engineers, including written process recipes. After the programme, Customer will run the process on its own. No further support is included.",
+     "gold_facts": {"Q1": ["SERVICES", "Vendor will conduct a four-week programme"], "Q4": ["YES", "process know-how for wafer cleaning"], "Q5": ["YES", "After the programme, Customer will run the process on its own"], "Q6": ["NO", "No further support is included"]},
+     "gold_category": "FTS", "gold_rate_pct": 10},
+
+    {"id": "C08", "payee_country": "UK", "payment_date": "2026-08-14", "amount_inr": 1500000, "trc": true, "form_10f": true,
+     "inspired_by": "Buro Happold Ltd (ITAT Mumbai 2023)",
+     "text": "Consultant will prepare and deliver structural engineering drawings and specifications for Customer's new warehouse. Consultant will not train Customer's staff, and the drawings are for this single building only. All work will be done from Consultant's office in Bristol.",
+     "gold_facts": {"Q1": ["SERVICES", "Consultant will prepare and deliver structural engineering drawings"], "Q4": ["YES", "structural engineering drawings and specifications"], "Q5": ["NO", "Consultant will not train Customer's staff"], "Q7": ["YES", "prepare and deliver structural engineering drawings and specifications"], "Q8": ["NO", "All work will be done from Consultant's office in Bristol"]},
+     "gold_category": "ABSTAIN", "gold_rate_pct": null},
+
+    {"id": "C09", "payee_country": "SG", "payment_date": "2026-09-30", "amount_inr": 6000000, "trc": true, "form_10f": true,
+     "inspired_by": "Delhi HC: IT and admin services by Singapore affiliate not FTS",
+     "text": "Intra-group Services Agreement: Parent will provide group finance, HR policy and administrative support to Customer every month. Parent's staff perform these functions in Singapore; Customer's staff are not trained to perform them.",
+     "gold_facts": {"Q1": ["SERVICES", "group finance, HR policy and administrative support"], "Q4": ["NO", "group finance, HR policy and administrative support"], "Q5": ["NO", "Customer's staff are not trained to perform them"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C10", "payee_country": "US", "payment_date": "2026-10-10", "amount_inr": 900000, "trc": true, "form_10f": true,
+     "inspired_by": "Synthetic edge case: thin invoice",
+     "text": "Invoice #4471 - Consulting services, Q3. Payment terms: Net 30.",
+     "gold_facts": {"Q1": ["SERVICES", "Consulting services"], "Q5": ["NOT_MENTIONED", ""]},
+     "gold_category": "ABSTAIN", "gold_rate_pct": null},
+
+    {"id": "C11", "payee_country": "UK", "payment_date": "2026-07-22", "amount_inr": 7000000, "trc": true, "form_10f": true,
+     "inspired_by": "Synthetic edge case: personnel in India (possible PE)",
+     "text": "Contractor will second two engineers to Customer's plant in Chennai for nine months to supervise commissioning of the bottling line and train Customer's operators to run it independently.",
+     "gold_facts": {"Q1": ["SERVICES", "supervise commissioning of the bottling line"], "Q8": ["YES", "second two engineers to Customer's plant in Chennai for nine months"]},
+     "gold_category": "ABSTAIN", "gold_rate_pct": null},
+
+    {"id": "C12", "payee_country": "SG", "payment_date": "2026-08-25", "amount_inr": 1200000, "trc": false, "form_10f": true,
+     "inspired_by": "Synthetic edge case: missing Tax Residency Certificate",
+     "text": "Vendor will train Customer's quality team in its statistical process control method and hand over the full method documentation, after which Customer's team will apply the method on their own. The engagement is a single three-week workshop.",
+     "gold_facts": {"Q1": ["SERVICES", "Vendor will train Customer's quality team"], "Q4": ["YES", "statistical process control method"], "Q5": ["YES", "Customer's team will apply the method on their own"], "Q6": ["NO", "The engagement is a single three-week workshop"]},
+     "gold_category": "FTS", "gold_rate_pct": 20},
+
+    {"id": "C13", "payee_country": "US", "payment_date": "2025-11-01", "amount_inr": 3000000, "trc": true, "form_10f": true,
+     "inspired_by": "Synthetic law-change pair of C06 (paid before 1 Apr 2026)",
+     "text": "Statement of Work: Vendor will train Customer's maintenance engineers to calibrate and repair the XR-9 laser cutting line. On completion, Vendor will hand over its full calibration procedures and diagnostic manuals so that Customer's engineers can perform calibration independently without Vendor's involvement. This is a one-time engagement of six weeks.",
+     "gold_facts": {"Q1": ["SERVICES", "Vendor will train Customer's maintenance engineers"], "Q4": ["YES", "calibrate and repair the XR-9 laser cutting line"], "Q5": ["YES", "Customer's engineers can perform calibration independently without Vendor's involvement"], "Q6": ["NO", "This is a one-time engagement of six weeks"]},
+     "gold_category": "FTS", "gold_rate_pct": 15, "gold_section_contains": "195"},
+
+    {"id": "C14", "payee_country": "UK", "payment_date": "2026-09-18", "amount_inr": 2800000, "trc": true, "form_10f": true,
+     "inspired_by": "Managerial/marketing services outside treaty FTS",
+     "text": "Agency will run digital marketing campaigns and manage social media advertising for Customer's brand from its London office, on a monthly retainer.",
+     "gold_facts": {"Q1": ["SERVICES", "run digital marketing campaigns"], "Q4": ["NO", "run digital marketing campaigns and manage social media advertising"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0},
+
+    {"id": "C15", "payee_country": "US", "payment_date": "2026-10-20", "amount_inr": 8000000, "trc": true, "form_10f": true,
+     "inspired_by": "Synthetic edge case: mixed contract (transfer + ongoing reliance)",
+     "text": "Vendor will train Customer's IT staff to administer the analytics platform themselves and will also continue to operate and support the platform for Customer under a three-year managed service.",
+     "gold_facts": {"Q1": ["SERVICES", "continue to operate and support the platform"], "Q4": ["YES", "administer the analytics platform"], "Q5": ["YES", "train Customer's IT staff to administer the analytics platform themselves"], "Q6": ["YES", "continue to operate and support the platform for Customer under a three-year managed service"]},
+     "gold_category": "ABSTAIN", "gold_rate_pct": null},
+
+    {"id": "C16", "payee_country": "UK", "payment_date": "2026-10-28", "amount_inr": 4500000, "trc": true, "form_10f": true,
+     "inspired_by": "Synthetic negation trap for keyword rules",
+     "text": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester. Provider will not provide training, documentation or know-how to Customer, and no design work is included; Provider remains responsible for operating the system for the five-year term.",
+     "gold_facts": {"Q1": ["SERVICES", "Provider will host and operate Customer's data warehouse"], "Q4": ["YES", "host and operate Customer's data warehouse"], "Q5": ["NO", "Provider will not provide training, documentation or know-how to Customer"], "Q6": ["YES", "Provider remains responsible for operating the system for the five-year term"], "Q7": ["NO", "no design work is included"]},
+     "gold_category": "BUSINESS_PROFITS", "gold_rate_pct": 0}
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "C16",
+  "generated_at": "2026-11-03T01:00:28.364678+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SAAS",
+      "quote": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester"
+    },
+    "Q2": {
+      "answer": "NO",
+      "quote": "on Provider's servers in Manchester"
+    },
+    "Q3": {
+      "answer": "NO",
+      "quote": "Provider will host and operate Customer's data warehouse on Provider's servers in Manchester"
+    },
+    "Q4": {
+      "answer": "YES",
+      "quote": "host and operate Customer's data warehouse"
+    },
+    "Q5": {
+      "answer": "NO",
+      "quote": "Provider will not provide training, documentation or know-how to Customer"
+    },
+    "Q6": {
+      "answer": "YES",
+      "quote": "Provider remains responsible for operating the system for the five-year term"
+    },
+    "Q7": {
+      "answer": "NO",
+      "quote": "no design work is included"
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "P-SAAS",
+      "UK-BP",
+      "DOM-TDS-2025"
+    ],
+    "flags": [
+      "No evidence either way on Indian presence: CA to confirm no PE",
+      "Not taxable in India only if vendor has no PE (assumed, CA to confirm)"
+    ],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "DRAFT",
+    "category": "BUSINESS_PROFITS",
+    "reason": "Remote SaaS access without IP rights is not royalty",
+    "rate_pct": 0.0,
+    "tds_inr": 0.0
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

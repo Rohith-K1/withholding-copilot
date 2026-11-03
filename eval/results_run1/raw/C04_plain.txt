@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Section 195 (nil rate under Article 7/12(3) India-UK DTAA); Form 15CA/15CB", "rate_pct": 0, "reasoning": "IT support services rendered entirely from UK are business profits under Article 7 of India-UK DTAA, not taxable in India absent a permanent establishment."}

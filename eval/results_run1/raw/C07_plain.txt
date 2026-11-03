@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "195 r/w Article 12 India-Singapore DTAA; Form 15CA/15CB", "rate_pct": 10, "reasoning": "The payment is for transfer of proprietary process know-how and written recipes, constituting 'secret formula or process' under Article 12 of the India-Singapore DTAA, taxable as royalty at 10% with TRC and Form 10F."}

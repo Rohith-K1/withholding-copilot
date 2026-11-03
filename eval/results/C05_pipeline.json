@@ -1,0 +1,61 @@
+{
+  "case_id": "C05",
+  "generated_at": "2026-11-03T00:49:06.112568+00:00",
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "prompt_version": "checklist-v1",
+  "facts": {
+    "Q1": {
+      "answer": "SERVICES",
+      "quote": "Consultant will assess Customer's executive compensation structure and deliver a recommendations report to the Board."
+    },
+    "Q2": {
+      "answer": "NO",
+      "quote": "Consultant's methodology, tools and models remain proprietary to Consultant and are not shared with Customer."
+    },
+    "Q3": {
+      "answer": "NO",
+      "quote": "Consultant's methodology, tools and models remain proprietary to Consultant and are not shared with Customer."
+    },
+    "Q4": {
+      "answer": "YES",
+      "quote": "Consultant will assess Customer's executive compensation structure and deliver a recommendations report to the Board."
+    },
+    "Q5": {
+      "answer": "NO",
+      "quote": "Consultant's methodology, tools and models remain proprietary to Consultant and are not shared with Customer."
+    },
+    "Q6": {
+      "answer": "NO",
+      "quote": "The engagement ends on delivery of the report."
+    },
+    "Q7": {
+      "answer": "NO",
+      "quote": "Consultant's methodology, tools and models remain proprietary to Consultant and are not shared with Customer."
+    },
+    "Q8": {
+      "answer": "NOT_MENTIONED",
+      "quote": ""
+    }
+  },
+  "verification_issues": [],
+  "result": {
+    "register_version": "36578f7987",
+    "rules_used": [
+      "P-CPP-2025",
+      "US-BP",
+      "DOM-TDS-2025"
+    ],
+    "flags": [
+      "No evidence either way on Indian presence: CA to confirm no PE",
+      "Not taxable in India only if vendor has no PE (assumed, CA to confirm)"
+    ],
+    "section": "IT Act 2025 s.393 + Form 145/146",
+    "status": "DRAFT",
+    "category": "BUSINESS_PROFITS",
+    "reason": "Make-available test not met",
+    "rate_pct": 0.0,
+    "tds_inr": 0.0
+  },
+  "ca_decision": null,
+  "label": "DRAFT FOR CA REVIEW - NOT TAX ADVICE"
+}

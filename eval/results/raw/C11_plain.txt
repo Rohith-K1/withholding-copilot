@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "195 (with Form 15CA/15CB)", "rate_pct": 10, "reasoning": "The secondment of engineers to supervise commissioning and train operators constitutes Fees for Technical Services under Section 9(1)(vii) and India-UK DTAA Article 13, attracting 10% withholding under Section 195 with TRC and Form 10F."}

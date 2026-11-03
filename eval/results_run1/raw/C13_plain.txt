@@ -1,0 +1,1 @@
+{"category": "FTS", "section": "195 r.w. Article 13 of India-US DTAA (Form 15CA/15CB)", "rate_pct": 10, "reasoning": "The engagement involves training and transfer of technical documentation as a service deliverable, which constitutes fees for technical services under the India-US DTAA."}

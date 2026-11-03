@@ -1,0 +1,1 @@
+{"category": "BUSINESS_PROFITS", "section": "Section 195 read with Article 7 of India-UK DTAA; Form 15CA/15CB", "rate_pct": 0, "reasoning": "Digital marketing and social media advertising services rendered from the UK constitute business profits not taxable in India absent a permanent establishment under the India-UK DTAA."}

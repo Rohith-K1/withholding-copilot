@@ -1,0 +1,1 @@
+{"category": "ROYALTY", "section": "Section 195 read with Article 12 of India-US DTAA (Form 15CA/15CB)", "rate_pct": 15, "reasoning": "The handover of calibration procedures and diagnostic manuals enabling independent use constitutes 'making available' of information concerning industrial experience under Article 12(3) of the India-US DTAA, classifying the payment as royalty."}
